@@ -14,9 +14,7 @@
 
 .main {
     height: 100vh;
-    display: flex;
-    width: 1200px;
-    margin: 0 auto;
+
 }
 
 .navbar{
@@ -27,6 +25,6 @@
 
 .feed{
     background: yellow;
-    width: 350px;
+    width: 100%;
     padding: 24px;
 }
